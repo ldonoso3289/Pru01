@@ -81,3 +81,14 @@ nav {
     font-family: "open sans";
     color: #ffff;
 }
+
+/* footer */
+
+#footer{
+    background-color: #5bc0de;
+}
+.iconos{
+    color: #fff;
+    padding:  0 3em 0 3em;
+    
+}

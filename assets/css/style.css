@@ -25,3 +25,27 @@ nav {
     font-family: "open sans";
 }
 
+/* quienes somos */
+
+#titulo hr{
+    width: 1300px;
+    height: 1px;
+    text-align: center;
+}
+
+#titulo h3{
+    font-family: "open sans";
+    color: #ffff;
+}
+
+#quienes-somos p{
+    font-family: "open sans";
+    color: #ffff;
+}
+
+.py-1{
+    background-color: #5bc0de;
+    padding-bottom: .5rem!important;
+    color: #fff;
+    text-align: center;
+}

@@ -68,3 +68,16 @@ nav {
     background-color: #5bc0de;
     color: #fff;
 }
+
+/* contacto */
+
+#contacto hr{
+    width: 1300px;
+    height: 1px;
+    text-align: center;
+}
+
+#contacto h3{
+    font-family: "open sans";
+    color: #ffff;
+}
